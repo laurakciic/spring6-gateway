@@ -10,4 +10,5 @@ Routing from port 8080
 - [spring6-rest-mvc](https://github.com/laurakciic/spring6-rest-mvc), server port 8081, MySQL running
 - [spring6-reactive](https://github.com/laurakciic/spring6-reactive), server port 8082
 - [spring6-reactive-mongo](https://github.com/laurakciic/spring6-reactive-mongo), server port 8083, MongoDB running
-- [spring6-auth-server](https://github.com/laurakciic/spring6-auth-server), server port 9000
+
+Project [spring6-auth-server](https://github.com/laurakciic/spring6-auth-server) runs on server port 9000
